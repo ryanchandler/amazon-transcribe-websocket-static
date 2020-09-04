@@ -26,6 +26,7 @@
   "dependencies": {
     "@aws-sdk/eventstream-marshaller": "0.1.0-preview.2",
     "@aws-sdk/util-utf8-node": "0.1.0-preview.1",
+    "axios": "^0.20.0",
     "browserify": "^16.5.1",
     "local-web-server": "^3.0.7",
     "microphone-stream": "^5.0.1",
